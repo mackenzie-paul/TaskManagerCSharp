@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3AB1ECEC-BA2A-43B5-9525-3CBC6CBC77A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManager/Pages/UpdateApptForm.xaml">
+    <Files>
+      <File FileName="TaskManager/ViewModel/MainViewModel.cs" Line="63" Column="31" />
+      <File FileName="TaskManager/Pages/CreateTaskForm.xaml.cs" />
+      <File FileName="TaskManager/MainPage.xaml.cs" Line="97" Column="61" />
+      <File FileName="TaskManager/Pages/UpdateTaskForm.xaml.cs" Line="95" Column="1" />
+      <File FileName="TaskManager/Pages/CreateApptForm.xaml.cs" Line="72" Column="17" />
+      <File FileName="TaskManager/Pages/UpdateApptForm.xaml.cs" Line="93" Column="74" />
+      <File FileName="TaskManager/Pages/UpdateApptForm.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskManager" expanded="True">
+            <Node name="TaskManager" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="CreateApptForm.xaml" expanded="True" />
+                <Node name="CreateTaskForm.xaml" expanded="True" />
+                <Node name="UpdateApptForm.xaml" expanded="True" selected="True" />
+                <Node name="UpdateTaskForm.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskManager.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

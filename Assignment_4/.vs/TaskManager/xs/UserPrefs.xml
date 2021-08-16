@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{3AB1ECEC-BA2A-43B5-9525-3CBC6CBC77A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManager/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TaskManager/App.xaml" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/xamarin.essentials/1.7.0/readme.txt" />
+      <File FileName="TaskManager.iOS/Info.plist" />
+      <File FileName="TaskManager.Android/Resources/Resource.designer.cs" />
+      <File FileName="TaskManager.Android/Resources/xml/network_security_config.xml" />
+      <File FileName="TaskManager.Android/MainActivity.cs" />
+      <File FileName="TaskManager/MainPage.xaml.cs" Line="20" Column="107" />
+      <File FileName="TaskManager.Android/Properties/AndroidManifest.xml" />
+      <File FileName="TaskManager.Android/TaskManager.Android.csproj" />
+      <File FileName="TaskManager/Pages/SaveTaskListForm.xaml.cs" />
+      <File FileName="TaskManager/Pages/LoadTaskListForm.xaml.cs" />
+      <File FileName="TaskManager/WebRequestHandler.cs" />
+      <File FileName="TaskManager.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="TaskManager/Pages/CreateTaskForm.xaml.cs" />
+      <File FileName="TaskManager/ViewModel/SearchBarViewModel.cs" />
+      <File FileName="TaskManager/MainPage.xaml" />
+      <File FileName="Library.TaskManager/Models/Item.cs" />
+      <File FileName="Library.TaskManager/Models/Task.cs" />
+      <File FileName="Library.TaskManager/Models/CalendarAppointments.cs" />
+      <File FileName="TaskManager/Pages/UpdateTaskForm.xaml.cs" />
+      <File FileName="TaskManager/Pages/UpdateApptForm.xaml" />
+      <File FileName="TaskManager/Pages/UpdateApptForm.xaml.cs" />
+      <File FileName="TaskManager/Pages/UpdateTaskForm.xaml" />
+      <File FileName="Library.TaskManager/Models/ListNavigator.cs" />
+      <File FileName="TaskManager/Pages/CreateApptForm.xaml.cs" />
+      <File FileName="TaskManager/Pages/CreateApptForm.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskManager" expanded="True">
+            <Node name="TaskManager" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskManager.Android Xamarin.HotReload.DebuggerTimeoutException.TaskManager.Android.HideInfoBar="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
